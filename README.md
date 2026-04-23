@@ -52,13 +52,6 @@ El proyecto está organizado siguiendo el patrón de diseño **Modelo-Vista-Cont
 
 ---
 
-## 📸 Capturas de Pantalla
-
-| Inicio | Gameplay | Game Over |
-| :---: | :---: | :---: |
-| ![Inicio](https://via.placeholder.com/200x400?text=Menu) | ![Juego](https://via.placeholder.com/400x200?text=Juego+Landscape) | ![GameOver](https://via.placeholder.com/200x400?text=Resultados) |
-
----
 
 ## 📄 Licencia
 
